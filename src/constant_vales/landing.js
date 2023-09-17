@@ -22,7 +22,7 @@ export const facts = [
   { id: "experiencefact", text:<><i className="bx bx-check-double"></i> Over four decades of experience!</>},
 ]
 export const topfacts = [
-  {icon: <><i className="bx bx-receipt"></i></>, title:"We specialize in gold", text: "Stop by and learn more, we can even test on the spot for you."},
+  {icon: <><i className="bx bx-receipt"></i></>, title:"We specialize in gold!", text: "Stop by and learn more, we can even test on the spot for you."},
 ]
 export const inputs = [
   { id: "count1", icon: "trophy", level: 100, text: "hundreds of items"},
